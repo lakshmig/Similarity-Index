@@ -66,7 +66,7 @@ angular.module('starter.controllers', [])
                     if (pair1 === pair2) {
                     intersection++;
                     console.log("Intersection:",intersection)
-                    pairs2.pop(j);
+                    //pairs2.pop(j);
                     break;
                     }
                 }
